@@ -84,7 +84,7 @@ def adding_matz
     }
 programmer_hash[:yukihiro_matsumoto] = []
 yukihiro_matsumoto[:known_for] = []
-ruby = 
+ruby = {
 yukihiro_matsumoto[:languages] = []
   yukihiro_matsumoto
 end
