@@ -131,7 +131,6 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
-    new_language = { known_for: "Assembly" }
-programmer_hash[:dennis_ritchie][:languages][1] >> new_language
+   [:dennis_ritchie][:languages][1]to.include ("Assembly")
 programmer_hash
 end
